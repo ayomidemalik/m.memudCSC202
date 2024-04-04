@@ -1,0 +1,1 @@
+2024/04/03 22:20:53 [error] 7820#3104: *1 CreateFile() "C:\Users\MEMUD ABDULMALIK AYO\Downloads\nginx-1.25.4\nginx-1.25.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "csc2022.com", referrer: "http://csc2022.com/"
